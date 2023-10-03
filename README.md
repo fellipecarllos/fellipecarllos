@@ -1,6 +1,5 @@
 # FellipeCarllos 
 
-## Olá 👋 Me chamo Felipe Carlos
 Graduado em Análise e Desenvolvimento de Sistema pela Unibratec e formando no curso técnico em desenvolvimento de sistemas pelo ETE. Atualmente trabalho na empresa [MV](https://www.mv.com.br/) como desenvolvedor.
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/fellipecarlloss/)

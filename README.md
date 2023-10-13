@@ -15,17 +15,19 @@ Graduado em Análise e Desenvolvimento de Sistema pela Unibratec e formando no c
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 💻 IDEs/Editores
 ![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipse)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visualstudio-000?style=for-the-badge&logo=visualstudio)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📚 Frameworks, Platformas and bibliotecas
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=fat-square&logo=bootstrap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 💾 Dados
 

@@ -4,7 +4,7 @@ Graduado em Análise e Desenvolvimento de Sistema pela Unibratec e formando no c
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/fellipecarlloss/)
 
-[![Linkedin](https://img.shields.io/badge/-felipecarlos-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-carlos/)]((https://www.linkedin.com/in/felipe-carlos-582430a7/))
+[![Linkedin](https://img.shields.io/badge/-felipecarlos-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-carlos/)](https://www.linkedin.com/in/felipe-carlos-582430a7/)
 
 ## Habilidades
 
